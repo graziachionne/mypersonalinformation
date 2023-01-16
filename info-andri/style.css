@@ -1,0 +1,38 @@
+body{
+    background-color: #fc7684;
+}
+.text-centered{
+    text-align: center;
+}
+.container{
+    max-width: 80%;
+    margin: 0 auto;
+}
+ul{
+    margin: 0%;
+    list-style-type:upper-roman;
+}
+
+li a {
+
+    text-decoration: none;
+    color: green;
+}
+p{
+    font-size: 25px;
+}
+.image-container{
+
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-around;
+}
+image{
+    max-width: 300px;
+}
+.backlink{
+    text-align: right;
+}
+.backlink .a{
+    margin-right: 30px;
+}
